@@ -64602,7 +64602,7 @@ surface "srfEmptyRecipe"
 	staticbox sttLP
 	{
 		x	= 128;
-	 	y 	= 43;
+	 	y 	= 41;
 		width	= 100;
 		height	= 12;
 		enabled = false;
@@ -64616,7 +64616,7 @@ surface "srfEmptyRecipe"
 	staticbox sttEP
 	{
 		x	= 128;
-	 	y 	= 58;
+	 	y 	= 56;
 		width	= 100;
 		height	= 12;
 		enabled 	= false;
@@ -64700,7 +64700,7 @@ surface "srfEmptyRecipe"
 //		text_effectcolor_blue	= 153;
 //		text_effect_mode = outline;
 //		text_effect_value = 0;
-//		text = "ÀüÅõ·Â";
+//		text = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
 //	}
 
 	panel pnlBattleCombating
@@ -76961,10 +76961,10 @@ surface "srfPartyMatchingDown"
 
 dialog dlgMain
 {
-	x	= 863;
-	y	= 540;
+	x	= 0;
+	y	= 0;
 	width	= 139;
-	height  = 408;
+	height  = 442;
 	priority = 50000;
 
 	surface_file = "MainBtn.srf";
