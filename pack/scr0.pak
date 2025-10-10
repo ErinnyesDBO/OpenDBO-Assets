@@ -13257,90 +13257,90 @@ end
 --
 -- < 2008/5/6 (1) >
 -- 1. ETL_KEYBOARD_INPUT_TYPE_COMMUNITY -> ETL_KEYBOARD_INPUT_TYPE_PARTY
--- 2. ETL_KEYBOARD_INPUT_TYPE_GUILD ¼ø¼­ º¯°æ
--- 3. ETL_KEYBOARD_INPUT_TYPE_ESC_GUILD_CLOSE »èÁ¦
--- 4. ETL_KEYBOARD_INPUT_TYPE_ESC_MINI_MAP »èÁ¦
--- 5. ETL_CONDITION_TYPE_CAPSULEKIT_OPEN Ãß°¡
+-- 2. ETL_KEYBOARD_INPUT_TYPE_GUILD ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+-- 3. ETL_KEYBOARD_INPUT_TYPE_ESC_GUILD_CLOSE ï¿½ï¿½ï¿½ï¿½
+-- 4. ETL_KEYBOARD_INPUT_TYPE_ESC_MINI_MAP ï¿½ï¿½ï¿½ï¿½
+-- 5. ETL_CONDITION_TYPE_CAPSULEKIT_OPEN ï¿½ß°ï¿½
 
 -- < 2008/5/7 (1) >
--- 1. ETL_KEYBOARD_INPUT_TYPE_AUTORUN Ãß°¡
--- 2. ETL_CONDITION_TYPE_STATUS_CLOSE Ãß°¡
--- 3. ETL_CONDITION_TYPE_CAPSULEKIT_CLOSE Ãß°¡
+-- 1. ETL_KEYBOARD_INPUT_TYPE_AUTORUN ï¿½ß°ï¿½
+-- 2. ETL_CONDITION_TYPE_STATUS_CLOSE ï¿½ß°ï¿½
+-- 3. ETL_CONDITION_TYPE_CAPSULEKIT_CLOSE ï¿½ß°ï¿½
 
 -- < 2008/5/8 (1) >
--- 1. TLDefaultSkin ÇÔ¼öÀÇ ÆÄ¶ó¹ÌÅÍÁß msg layer offset Ãß°¡
--- 2. TLGuideMsgLayer_Show / TLGuideMsgLayer_Hide Ãß°¡
+-- 1. TLDefaultSkin ï¿½Ô¼ï¿½ï¿½ï¿½ ï¿½Ä¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ msg layer offset ï¿½ß°ï¿½
+-- 2. TLGuideMsgLayer_Show / TLGuideMsgLayer_Hide ï¿½ß°ï¿½
 
 -- < 2008/5/9 (1) >
--- 1. TLPlaySound Ãß°¡
--- 2. TLPlayCamera Ãß°¡
--- 3. TLGuideIMGOk_Show / TLGuideIMGOk_Hide Ãß°¡
+-- 1. TLPlaySound ï¿½ß°ï¿½
+-- 2. TLPlayCamera ï¿½ß°ï¿½
+-- 3. TLGuideIMGOk_Show / TLGuideIMGOk_Hide ï¿½ß°ï¿½
 
 -- < 2008/5/12 (1) >
--- 1. TLDefaultSkin ¿¡ Ok offset Ãß°¡
+-- 1. TLDefaultSkin ï¿½ï¿½ Ok offset ï¿½ß°ï¿½
 
 -- < 2008/5/16 (1) >
--- 1. TLPlayCamera -> TLPlayCamera_TBLIDX, TLPlayCamera_POS ·Î ºÐ¸®
--- 2. ETL_CAMERA_TYPE Ãß°¡
+-- 1. TLPlayCamera -> TLPlayCamera_TBLIDX, TLPlayCamera_POS ï¿½ï¿½ ï¿½Ð¸ï¿½
+-- 2. ETL_CAMERA_TYPE ï¿½ß°ï¿½
 
 -- < 2008/5/18 (1) >
--- 1. ETL_MOUSE_INPUT_TYPE_SKILL_WND_TAB Ãß°¡
--- 2. ETL_MOUSE_INPUT_TYPE_STATUS_WND_TAB Ãß°¡
--- 3. ETL_MOUSE_INPUT_TYPE_SCOUTER_SLOT Ãß°¡
--- 4. ETL_MOUSE_INPUT_TYPE_MINIMAP Ãß°¡
+-- 1. ETL_MOUSE_INPUT_TYPE_SKILL_WND_TAB ï¿½ß°ï¿½
+-- 2. ETL_MOUSE_INPUT_TYPE_STATUS_WND_TAB ï¿½ß°ï¿½
+-- 3. ETL_MOUSE_INPUT_TYPE_SCOUTER_SLOT ï¿½ß°ï¿½
+-- 4. ETL_MOUSE_INPUT_TYPE_MINIMAP ï¿½ß°ï¿½
 
 -- < 2008/5/18 (1) >
--- 1. TLSoundOnOff Ãß°¡
+-- 1. TLSoundOnOff ï¿½ß°ï¿½
 
 -- < 2008/7/24 (1) >
--- 1. ETL_KEYBOARD_INPUT_TYPE_ESC_MAINMENU_CLOSE Ãß°¡
+-- 1. ETL_KEYBOARD_INPUT_TYPE_ESC_MAINMENU_CLOSE ï¿½ß°ï¿½
 
 -- < 2008/9/18 (1) >
--- 1. ETL_MOUSE_INPUT_TYPE_SCOUTER_ON_MODE Ãß°¡
--- 2. ETL_MOUSE_INPUT_TYPE_SCOUTER_OFF_MODE Ãß°¡
+-- 1. ETL_MOUSE_INPUT_TYPE_SCOUTER_ON_MODE ï¿½ß°ï¿½
+-- 2. ETL_MOUSE_INPUT_TYPE_SCOUTER_OFF_MODE ï¿½ß°ï¿½
 
 -- < 2008/9/18 (1) >
--- 1. ETL_KEYBOARD_INPUT_TYPE_PARTY »èÁ¦
+-- 1. ETL_KEYBOARD_INPUT_TYPE_PARTY ï¿½ï¿½ï¿½ï¿½
 
 -- < 2008/11/11 (1) >
--- 1. TLGuideMsgLayer_Show / TLGuideMsgLayer_Hide »èÁ¦
+-- 1. TLGuideMsgLayer_Show / TLGuideMsgLayer_Hide ï¿½ï¿½ï¿½ï¿½
 
 -- < 2008/11/25 (1) >
--- 1. TLGuideIMG_Show ¼öÁ¤
+-- 1. TLGuideIMG_Show ï¿½ï¿½ï¿½ï¿½
 
 -- < 2009/02/18 (1) >
--- 1. ETL_MOUSE_INPUT_TYPE_MAINMENU_CAPSULE_KIT_OPEN Ãß°¡,
--- 2.	ETL_MOUSE_INPUT_TYPE_MAINMENU_CAPSULE_KIT_CLOSE Ãß°¡
+-- 1. ETL_MOUSE_INPUT_TYPE_MAINMENU_CAPSULE_KIT_OPEN ï¿½ß°ï¿½,
+-- 2.	ETL_MOUSE_INPUT_TYPE_MAINMENU_CAPSULE_KIT_CLOSE ï¿½ß°ï¿½
 
 -- < 2009/03/20 (1) >
--- 1. ETL_MOUSE_INPUT_TYPE_HELP_BUTTON_IN_DIALOG Ãß°¡,
+-- 1. ETL_MOUSE_INPUT_TYPE_HELP_BUTTON_IN_DIALOG ï¿½ß°ï¿½,
 
 -- < 2009/05/08 (1) >
--- 1. ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT »èÁ¦
--- 2. ETL_KEYBOARD_INPUT_TYPE_STATUS »èÁ¦
--- 3. ETL_KEYBOARD_INPUT_TYPE_SKILL »èÁ¦
+-- 1. ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT ï¿½ï¿½ï¿½ï¿½
+-- 2. ETL_KEYBOARD_INPUT_TYPE_STATUS ï¿½ï¿½ï¿½ï¿½
+-- 3. ETL_KEYBOARD_INPUT_TYPE_SKILL ï¿½ï¿½ï¿½ï¿½
 
--- 4. ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT_OPEN Ãß°¡
--- 5. ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT_CLOSE Ãß°¡
--- 6. ETL_KEYBOARD_INPUT_TYPE_STATUS_OPEN Ãß°¡
--- 7. ETL_KEYBOARD_INPUT_TYPE_STATUS_CLOSE Ãß°¡
--- 8. ETL_KEYBOARD_INPUT_TYPE_SKILL_OPEN Ãß°¡
--- 9. ETL_KEYBOARD_INPUT_TYPE_SKILL_CLOSE Ãß°¡
+-- 4. ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT_OPEN ï¿½ß°ï¿½
+-- 5. ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT_CLOSE ï¿½ß°ï¿½
+-- 6. ETL_KEYBOARD_INPUT_TYPE_STATUS_OPEN ï¿½ß°ï¿½
+-- 7. ETL_KEYBOARD_INPUT_TYPE_STATUS_CLOSE ï¿½ß°ï¿½
+-- 8. ETL_KEYBOARD_INPUT_TYPE_SKILL_OPEN ï¿½ß°ï¿½
+-- 9. ETL_KEYBOARD_INPUT_TYPE_SKILL_CLOSE ï¿½ß°ï¿½
 
--- 10. ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS »èÁ¦
+-- 10. ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS ï¿½ï¿½ï¿½ï¿½
 
--- 11. ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_PICK_UP Ãß°¡
--- 12. ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_DROP_DOWN Ãß°¡
+-- 11. ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_PICK_UP ï¿½ß°ï¿½
+-- 12. ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_DROP_DOWN ï¿½ß°ï¿½
 
--- 13. TLDisableDialogMoveOption Ãß°¡
+-- 13. TLDisableDialogMoveOption ï¿½ß°ï¿½
 
 -- < 2009/05/08 (1) >
--- 1. TLEnableSkip Ãß°¡
+-- 1. TLEnableSkip ï¿½ß°ï¿½
 
 -- < 2009/11/13 >
--- ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE »èÁ¦
--- ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_ON Ãß°¡
--- ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_OFF Ãß°¡
+-- ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE ï¿½ï¿½ï¿½ï¿½
+-- ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_ON ï¿½ß°ï¿½
+-- ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_OFF ï¿½ß°ï¿½
 
 --=======================================--
 -- << Keyword >>
@@ -13358,7 +13358,7 @@ end
 -- TLGuideMsg_ChangeColor		: text table index, font back color ( r, g, b ), font color ( r, g, b ), fade in/out time (second)
 --
 -- < Guide image >
--- TLGuideIMG_Show				: image name, fade in time (second), Image size rate(float / 1.0 : ¿øº» )
+-- TLGuideIMG_Show				: image name, fade in time (second), Image size rate(float / 1.0 : ï¿½ï¿½ï¿½ï¿½ )
 -- TLGuideIMG_Hide				: image name, fade out time (second)
 --
 -- < Guide ok image >
@@ -13415,9 +13415,9 @@ end
 -- TLDisableDialogMoveOption	: 0 or 1
 
 -- < TLEnableSkip >
--- TLEnableSkip	: 0 or 1	½ºÅµÀÌ °¡´ÉÇÑ ±¸°£ÀÎÁö ¾Æ´ÑÁö¸¦ ±¸ºÐ
+-- TLEnableSkip	: 0 or 1	ï¿½ï¿½Åµï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ´ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 
---[[ ÀüºÎÁÖ¼®Ã³¸® --]]
+--[[ ï¿½ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½Ã³ï¿½ï¿½ --]]
 --=======================================--
 COMP_TEXT_LEFT = 4;
 COMP_TEXT_CENTER = 8;
@@ -13573,67 +13573,68 @@ ETL_CAMERA_TYPE_MOB = 0;
 ETL_CAMERA_TYPE_NPC = 1;
 ETL_CAMERA_TYPE_POSITION = 2;
 --=======================================--
-DST_TUTORIAL_MESSAGE_1000001	=	1000001	-- µå·¡°ïº¼ ¿Â¶óÀÎ¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù                                                                       
-DST_TUTORIAL_MESSAGE_1000002	=	1000002	-- ÀÌÁ¦ºÎÅÍ Æ©Åä¸®¾óÀ» ÅëÇØ µå·¡°ïº¼ ¿Â¶óÀÎÀÇÁ¶ÀÛ¹ý¿¡ ´ëÇØ¼­ ¾Ë¾Æº¾½Ã´Ù                                         
-DST_TUTORIAL_MESSAGE_1000003	=	1000003	-- Ä³¸¯ÅÍ ÀÌµ¿ (1/7)                                                                                            
-DST_TUTORIAL_MESSAGE_1000004	=	1000004	-- ±âº»Á¶ÀÛ¹ý : Ä«¸Þ¶ó Á¶ÀÛÇÏ±â - ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ° ´©¸£°í ¿òÁ÷¿© º¸¼¼¿ä                                       
-DST_TUTORIAL_MESSAGE_1000005	=	1000005	-- ±âº»Á¶ÀÛ¹ý : ÀÌµ¿ÇÏ±â - Ã¼Å©Æ÷ÀÎÆ®±îÁö Å°º¸µå³ª ¸¶¿ì½º Å¬¸¯À¸·Î ÀÌµ¿ÇØ º¸¼¼¿ä                                
-DST_TUTORIAL_MESSAGE_1000006	=	1000006	-- Ä³¸¯ÅÍ¸¦ ÀÌµ¿ ÇÒ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù                                                                          
-DST_TUTORIAL_MESSAGE_1000007	=	1000007	-- °ÔÀÓÈ­¸é - (2/7)                                                                                             
-DST_TUTORIAL_MESSAGE_1000008	=	1000008	-- °ÔÀÓÈ­¸é : Ä³¸¯ÅÍ Á¤º¸ - Ä³¸¯ÅÍ Á¤º¸Ã¢¿¡¼­´Â »ý¸í·Â, ±â·Â, ÀüÅõ·Â, ¼Ó¼º,¸ÞÀÏ Á¤º¸ µîÀ» º¼ ¼ö ÀÖ½À´Ï´Ù        
-DST_TUTORIAL_MESSAGE_1000009	=	1000009	-- °³ÀÓÈ­¸é : ¹Ì´Ï¸Ê - ¹Ì´Ï¸Ê¿¡¼­´Â PC³ª ¸÷, ÁöÇü µîÀÇÁ¤º¸¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù                                     
-DST_TUTORIAL_MESSAGE_1000010	=	1000010	-- °ÔÀÓÈ­¸é : Ã¤ÆÃÃ¢ - Ã¤ÆÃÃ¢¿¡¼­´Â ´Ù¸¥ À¯Àú, Ä£±¸, ÆÄÆ¼¸É¹öµé°ú´ëÈ­¸¦  ÇÒ ¼ö ÀÖ½À´Ï´Ù                         
-DST_TUTORIAL_MESSAGE_1000011	=	1000011	-- °ÔÀÓÈ­¸é : Äü½½·Ô - ½ºÄ«¿ìÅÍ´Â ¿©·¯°¡Áö ¸¦ ³Ö¾î ´Ù¾çÇÑ Æ¯¼ö±â´ÉÀ» »ç¿ë ÇÒ ¼ö ÀÖ½À´Ï´Ù                        
-DST_TUTORIAL_MESSAGE_1000012	=	1000012	-- °ÔÀÓÈ­¸é : Ä¸½¶Å°Æ® ½½·Ô - Ä¸½¶Å°Æ® ½½·Ô¿¡¼­´Â °¡Áö°í ÀÖ´ÂÀ» º¼ ¼ö ÀÖÀ¸¸ç Ãß°¡ Ä¸½¶Å°Æ®¸¦ µî·Ï ÇÒ ¼ö ÀÖ½À´Ï´Ù
-DST_TUTORIAL_MESSAGE_1000013	=	1000013	-- °ÔÀÓÈ­¸é : ½ºÄ«¿ìÅÍ ½½·Ô - ½ºÄ«¿ìÅÍ´Â ¿©·¯°¡Áö ¸¦ ³Ö¾î ´Ù¾çÇÑ Æ¯¼ö±â´ÉÀ» »ç¿ë ÇÒ ¼ö ÀÖ½À´Ï´Ù                 
-DST_TUTORIAL_MESSAGE_1000014	=	1000014	-- °ÔÀÓÈ­¸é : ¸ÞÀÎ¸Þ´º - ¸ÞÀÎ¸Þ´º¿¡¼­´Â ´Ù¾çÇÑ Ã¢À» ¿­¾îÁ¤º¸¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù                                   
-DST_TUTORIAL_MESSAGE_1000015	=	1000015	-- Äü½½·Ô - (3/7)                                                                                               
-DST_TUTORIAL_MESSAGE_1000016	=	1000016	-- ¸ÞÀÎ¸Þ´º ÀÌ¿ëÇÏ±â - ¸ÞÀÎ ¸Þ´º¸¦ Å¬¸¯ÇØ ÁÖ¼¼¿ä                                                                
-DST_TUTORIAL_MESSAGE_1000017	=	1000017	-- ½ºÅ³Ã¢ ¿­±â - ½ºÅ³ ¸Þ´º¸¦ Å¬¸¯ÇØ¼­ ½ºÅ³Ã¢À» ¿­¾îÁÖ¼¼¿ä                                                       
-DST_TUTORIAL_MESSAGE_1000018	=	1000018	-- Äü½½·Ô¿¡ ½ºÅ³ µî·ÏÇÏ±â - ½ºÅ³Ã¢ÀÇ ½ºÅ³ ¾ÆÀÌÄÜÀ» Å¬¸¯ÇÏ°í Äü½½·ÔÀ» Å¬¸¯ÇØ½ºÅ³À» µî·ÏÇØ ÁÖ¼¼¿ä                 
-DST_TUTORIAL_MESSAGE_1000019	=	1000019	-- Äü½½·Ô ½ºÅ³ µî·Ï ÇØÁ¦ÇÏ±â - CtrlÅ°¿Í Å¬¸¯À¸·Î ½ºÅ³À» ÇØÁ¦ ÇÒ ¼ö ÀÖ½À´Ï´Ù                                     
-DST_TUTORIAL_MESSAGE_1000020	=	1000020	-- ½ºÅ³Ã¢ ´Ý±â - ´Ý±â ¹öÆ°À» Å¬¸¯ÇØ¼­ ½ºÅ³Ã¢À» ´Ý¾Æ ÁÖ¼¼¿ä                                                      
-DST_TUTORIAL_MESSAGE_1000021	=	1000021	-- Àåºñ ÀåÂø/ÇØÁ¦ - (4/7)                                                                                       
-DST_TUTORIAL_MESSAGE_1000022	=	1000022	-- Ä³¸¯ÅÍ »óÅÂÃ¢ ¿­±â - »óÅÂº¸±âÃ¢À» ¿­¾îÁÖ¼¼¿ä                                                                 
-DST_TUTORIAL_MESSAGE_1000023	=	1000023	-- Ä³¸¯ÅÍ »óÅÂÃ¢ ¿­±â - »óÅÂº¸±â ¸Þ´º¸¦ Å¬¸¯ÇÏ¸é »óÅÂº¸±âÃ¢ÀÌ ³ªÅ¸³³´Ï´Ù                                        
-DST_TUTORIAL_MESSAGE_1000024	=	1000024	-- Ä¸½¶Å°Æ® ¿­±â - ´ÜÃàÅ° 'I'¸¦ ´©¸£°Å³ª Ä¸½¶Å°Æ®¸¦ Å¬¸¯ÇØ ¿­¾îÁÖ¼¼¿ä                                           
-DST_TUTORIAL_MESSAGE_1000025	=	1000025	-- Àåºñ ÇØÁ¦ - ½ºÄ«¿ìÅÍ ½½·ÔÀ» Å¬¸¯ÇØ¼­ ½ºÄ«¿ìÅÍ¸¦ µé°íÄ¸½¶Å°Æ®·Î ¿Å°Ü º¸¼¼¿ä                                   
-DST_TUTORIAL_MESSAGE_1000026	=	1000026	-- Àåºñ ÀåÂø - Ä¸½¶Å°Æ®ÀÇ ½ºÄ«¿ìÅÍ¸¦ ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇØ¼­ÀåÂøÇØ º¸¼¼¿ä                               
-DST_TUTORIAL_MESSAGE_1000027	=	1000027	-- ¿­·ÁÀÖ´Â Ã¢µéÀ» ¸ðµÎ ´Ý¾ÆÁÖ¼¼¿ä                                                                              
-DST_TUTORIAL_MESSAGE_1000028	=	1000028	-- ¸ÞÀÎ¸Þ´º¸¦ »ç¿ë ÇÒ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù                                                                        
-DST_TUTORIAL_MESSAGE_1000029	=	1000029	-- ´ÜÃàÅ°·Î Ã¢µéÀ» ¿­ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù                                                                        
-DST_TUTORIAL_MESSAGE_1000030	=	1000030	-- ÀüÅõ - (5/7)                                                                                                 
-DST_TUTORIAL_MESSAGE_1000031	=	1000031	-- °ø°Ý´ë»ó ¼³Á¤ - ¸÷À» Å¬¸¯ÇØ¼­ °ø°Ý ´ë»óÀ¸·Î ¼³Á¤ÇØ º¸¼¼¿ä                                                    
-DST_TUTORIAL_MESSAGE_1000032	=	1000032	-- ±âº» °ø°Ý - ¸÷À» ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ°À¸·Î Å¬¸¯ÇØ¼­ °ø°ÝÇØ º¸¼¼¿ä                                               
-DST_TUTORIAL_MESSAGE_1000033	=	1000033	-- ±âº»°ø°ÝÀ»  ÇÒ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù                                                                            
-DST_TUTORIAL_MESSAGE_1000034	=	1000034	-- ½ºÅ³ °ø°Ý - ¸÷À» °ø°Ý ´ë»óÀ¸·Î ¼³Á¤ÇÑ ÈÄ Äü½½·ÔÀ» Å¬¸¯ÇØ¼­½ºÅ³À» »ç¿ëÇØ º¸¼¼¿ä                               
-DST_TUTORIAL_MESSAGE_1000035	=	1000035	-- ¾ÆÀÌÅÛ ÁÝ±â - ¸÷À» ÇÑ¸¶¸® ´õ »ç³ÉÇÏ°í ¶³¾îÁö´Â Ä¸½¶À»¿ìÅ¬¸¯ÇØ¼­ Áý¾îº¸¼¼¿ä                                     
-DST_TUTORIAL_MESSAGE_1000036	=	1000036	-- ½ºÅ³°ø°ÝÀ»  ÇÒ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù 
-DST_TUTORIAL_MESSAGE_1000037	=	1000037	-- ½ºÄ«¿ìÅÍ »ç¿ëÇÏ±â - (6/7)                                                                                    
-DST_TUTORIAL_MESSAGE_1000038	=	1000038	-- ½ºÄ«¿ìÅÍ ÄÑ±â - ´ÜÃàÅ° 'T'Å°¸¦ ´­·¯¼­ ½ºÄ«¿ìÅÍ¸¦ ÄÑÁÖ¼¼¿ä                                                    
-DST_TUTORIAL_MESSAGE_1000039	=	1000039	-- ÀüÅõ·Â ÃøÁ¤ÇÏ±â - ¸÷À» °ø°Ý ´ë»óÀ¸·Î ¼³Á¤ÇÏ°íPOWER LEVEL(ÀüÅõ·Â ÃøÁ¤) ¸Þ´º¸¦ Å¬¸¯ ÇØ ÁÖ¼¼¿ä                  
-DST_TUTORIAL_MESSAGE_1000040	=	1000040	-- ½ºÄ«¿ìÅÍ¿¡ ÄáÀç¹è¸ÇÀÇ Á¤º¸°¡ ¾÷µ¥ÀÌÆ® µÇ¾ú½À´Ï´Ù                                                             
-DST_TUTORIAL_MESSAGE_1000041	=	1000041	-- ½ºÄ«¿ìÅÍ ´Ý±â - ´Ý±â ¹öÆ°À» Å¬¸¯ÇØ¼­ ½ºÄ«¿ìÅÍ¸¦ ²¨ÁÖ¼¼¿ä                                                     
-DST_TUTORIAL_MESSAGE_1000042	=	1000042	-- ½ºÄ«¿ìÅÍ¸¦ »ç¿ë ÇÒ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù                                                                        
-DST_TUTORIAL_MESSAGE_1000043	=	1000043	-- ÈÞÁöÅëÀ» »ç¿ë ÇÒ ¼ö ÀÖ°Ô µÇ¾ú½À´Ï´Ù   
-DST_TUTORIAL_MESSAGE_1000044	=	1000044	-- µµ¿ò¸» - (7/7)                                                                                               
-DST_TUTORIAL_MESSAGE_1000045	=	1000045	-- µµ¿ò¸» - Æ©Åä¸®¾ó¿¡¼­ ¹è¿ìÁö ¸øÇÑ °ÍµéÀº µµ¿ò¸»¿¡¼­¹è¿ï ¼ö ÀÖ½À´Ï´Ù                                          
-DST_TUTORIAL_MESSAGE_1000046	=	1000046	-- µµ¿ò¸» ¿­±â - ´ÜÃàÅ° 'H'¸¦ ´©¸£°Å³ª ¸ÞÀÎ¸Þ´ºÀÇ µµ¿ò¸» ¸Þ´º·Îµµ¿ò¸»À» ¿­ ¼ö ÀÖ½À´Ï´Ù                         
-DST_TUTORIAL_MESSAGE_1000047	=	1000047	-- ÀÚ, DBOÀÇ ¼¼°è·Î ¿©ÇàÀ» ¶°³ªº¾½Ã´ÙÆÄÀÌÆÃ!
-DST_TUTORIAL_MESSAGE_1000048	=	1000048	-- ±âº»Á¶ÀÛ¹ý : Ä«¸Þ¶ó Á¶ÀÛÇÏ±â ¸¶¿ì½º ÈÙÀ» ¹Ð¸é È­¸éÀÌ È®´ëµÇ°í, ¸¶¿ì½º ÈÙÀ» ´ç±â¸é È­¸éÀÌ Ãà¼ÒµË´Ï´Ù.                                                          
+DST_TUTORIAL_MESSAGE_1000001	=	1000001	-- ï¿½å·¡ï¿½ïº¼ ï¿½Â¶ï¿½ï¿½Î¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ È¯ï¿½ï¿½ï¿½Õ´Ï´ï¿½                                                                       
+DST_TUTORIAL_MESSAGE_1000002	=	1000002	-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Æ©ï¿½ä¸®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½å·¡ï¿½ïº¼ ï¿½Â¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Û¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½Ë¾Æºï¿½ï¿½Ã´ï¿½                                         
+DST_TUTORIAL_MESSAGE_1000003	=	1000003	-- Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ (1/7)                                                                                            
+DST_TUTORIAL_MESSAGE_1000004	=	1000004	-- ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                                       
+DST_TUTORIAL_MESSAGE_1000005	=	1000005	-- ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : ï¿½Ìµï¿½ï¿½Ï±ï¿½ - Ã¼Å©ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ Å°ï¿½ï¿½ï¿½å³ª ï¿½ï¿½ï¿½ì½º Å¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                                
+DST_TUTORIAL_MESSAGE_1000006	=	1000006	-- Ä³ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½Ìµï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½                                                                          
+DST_TUTORIAL_MESSAGE_1000007	=	1000007	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ - (2/7)                                                                                             
+DST_TUTORIAL_MESSAGE_1000008	=	1000008	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ : Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½Ó¼ï¿½,ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½        
+DST_TUTORIAL_MESSAGE_1000009	=	1000009	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ : ï¿½Ì´Ï¸ï¿½ - ï¿½Ì´Ï¸Ê¿ï¿½ï¿½ï¿½ï¿½ï¿½ PCï¿½ï¿½ ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                                     
+DST_TUTORIAL_MESSAGE_1000010	=	1000010	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ : Ã¤ï¿½ï¿½Ã¢ - Ã¤ï¿½ï¿½Ã¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½, Ä£ï¿½ï¿½, ï¿½ï¿½Æ¼ï¿½É¹ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½  ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                         
+DST_TUTORIAL_MESSAGE_1000011	=	1000011	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ : ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¾ï¿½ ï¿½Ù¾ï¿½ï¿½ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                        
+DST_TUTORIAL_MESSAGE_1000012	=	1000012	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ : Ä¸ï¿½ï¿½Å°Æ® ï¿½ï¿½ï¿½ï¿½ - Ä¸ï¿½ï¿½Å°Æ® ï¿½ï¿½ï¿½Ô¿ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½ Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½
+DST_TUTORIAL_MESSAGE_1000013	=	1000013	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ : ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¾ï¿½ ï¿½Ù¾ï¿½ï¿½ï¿½ Æ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                 
+DST_TUTORIAL_MESSAGE_1000014	=	1000014	-- ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ : ï¿½ï¿½ï¿½Î¸Þ´ï¿½ - ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ù¾ï¿½ï¿½ï¿½ Ã¢ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                                   
+DST_TUTORIAL_MESSAGE_1000015	=	1000015	-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ - (3/7)                                                                                               
+DST_TUTORIAL_MESSAGE_1000016	=	1000016	-- ï¿½ï¿½ï¿½Î¸Þ´ï¿½ ï¿½Ì¿ï¿½ï¿½Ï±ï¿½ - ï¿½ï¿½ï¿½ï¿½ ï¿½Þ´ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½                                                                
+DST_TUTORIAL_MESSAGE_1000017	=	1000017	-- ï¿½ï¿½Å³Ã¢ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½Å³ ï¿½Þ´ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½                                                       
+DST_TUTORIAL_MESSAGE_1000018	=	1000018	-- ï¿½ï¿½ï¿½ï¿½ï¿½Ô¿ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½                 
+DST_TUTORIAL_MESSAGE_1000019	=	1000019	-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - CtrlÅ°ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                                     
+DST_TUTORIAL_MESSAGE_1000020	=	1000020	-- ï¿½ï¿½Å³Ã¢ ï¿½Ý±ï¿½ - ï¿½Ý±ï¿½ ï¿½ï¿½Æ°ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½Ý¾ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½                                                      
+DST_TUTORIAL_MESSAGE_1000021	=	1000021	-- ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ - (4/7)                                                                                       
+DST_TUTORIAL_MESSAGE_1000022	=	1000022	-- Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ã¢ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½                                                                 
+DST_TUTORIAL_MESSAGE_1000023	=	1000023	-- Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ã¢ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½ ï¿½Þ´ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ ï¿½ï¿½Å¸ï¿½ï¿½ï¿½Ï´ï¿½                                        
+DST_TUTORIAL_MESSAGE_1000024	=	1000024	-- Ä¸ï¿½ï¿½Å°Æ® ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½Å° 'I'ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Å³ï¿½ Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½                                           
+DST_TUTORIAL_MESSAGE_1000025	=	1000025	-- ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ ï¿½Å°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                                   
+DST_TUTORIAL_MESSAGE_1000026	=	1000026	-- ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ°ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                               
+DST_TUTORIAL_MESSAGE_1000027	=	1000027	-- ï¿½ï¿½ï¿½ï¿½ï¿½Ö´ï¿½ Ã¢ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ý¾ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½                                                                              
+DST_TUTORIAL_MESSAGE_1000028	=	1000028	-- ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½                                                                        
+DST_TUTORIAL_MESSAGE_1000029	=	1000029	-- ï¿½ï¿½ï¿½ï¿½Å°ï¿½ï¿½ Ã¢ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½                                                                        
+DST_TUTORIAL_MESSAGE_1000030	=	1000030	-- ï¿½ï¿½ï¿½ï¿½ - (5/7)                                                                                                 
+DST_TUTORIAL_MESSAGE_1000031	=	1000031	-- ï¿½ï¿½ï¿½Ý´ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                                                    
+DST_TUTORIAL_MESSAGE_1000032	=	1000032	-- ï¿½âº» ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ°ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                                               
+DST_TUTORIAL_MESSAGE_1000033	=	1000033	-- ï¿½âº»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½                                                                            
+DST_TUTORIAL_MESSAGE_1000034	=	1000034	-- ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½                               
+DST_TUTORIAL_MESSAGE_1000035	=	1000035	-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ý±ï¿½ - ï¿½ï¿½ï¿½ï¿½ ï¿½Ñ¸ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½îº¸ï¿½ï¿½ï¿½ï¿½                                     
+DST_TUTORIAL_MESSAGE_1000036	=	1000036	-- ï¿½ï¿½Å³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ 
+DST_TUTORIAL_MESSAGE_1000037	=	1000037	-- ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - (6/7)                                                                                    
+DST_TUTORIAL_MESSAGE_1000038	=	1000038	-- ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½Ñ±ï¿½ - ï¿½ï¿½ï¿½ï¿½Å° 'T'Å°ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½                                                    
+DST_TUTORIAL_MESSAGE_1000039	=	1000039	-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï°ï¿½POWER LEVEL(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½) ï¿½Þ´ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½                  
+DST_TUTORIAL_MESSAGE_1000040	=	1000040	-- ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½                                                             
+DST_TUTORIAL_MESSAGE_1000041	=	1000041	-- ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½Ý±ï¿½ - ï¿½Ý±ï¿½ ï¿½ï¿½Æ°ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½                                                     
+DST_TUTORIAL_MESSAGE_1000042	=	1000042	-- ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½                                                                        
+DST_TUTORIAL_MESSAGE_1000043	=	1000043	-- ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö°ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½   
+DST_TUTORIAL_MESSAGE_1000044	=	1000044	-- ï¿½ï¿½ï¿½ï¿½ - (7/7)                                                                                               
+DST_TUTORIAL_MESSAGE_1000045	=	1000045	-- ï¿½ï¿½ï¿½ï¿½ - Æ©ï¿½ä¸®ï¿½ó¿¡¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Íµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ò¸»¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                                          
+DST_TUTORIAL_MESSAGE_1000046	=	1000046	-- ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ - ï¿½ï¿½ï¿½ï¿½Å° 'H'ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Å³ï¿½ ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Þ´ï¿½ï¿½Îµï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½                         
+DST_TUTORIAL_MESSAGE_1000047	=	1000047	-- ï¿½ï¿½, DBOï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!
+DST_TUTORIAL_MESSAGE_1000048	=	1000048	-- ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ ï¿½Ð¸ï¿½ È­ï¿½ï¿½ï¿½ï¿½ È®ï¿½ï¿½Ç°ï¿½, ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ È­ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ÒµË´Ï´ï¿½.                                                          
 
 --=======================================--
 
---µµ¿ò¸» ¹öÆ°, ÈÞÁöÅë, ¸¶¿ì½º ÄÁÆ®·Ñ, Å°º¸µå ÄÁÆ®·Ñ ¸·±â,¸ÞÀÎ¸Þ´º´Ý±âÇ®±â
+--ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ°, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ì½º ï¿½ï¿½Æ®ï¿½ï¿½, Å°ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½Ý±ï¿½Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_HELP_BUTTON_IN_DIALOG);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_TRASH);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_ALL);
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ALL);
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPEN);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_CLOSE);
 
 -- TLDefaultSkin	: font name (" "), font back color ( r, g, b ), font color ( r, g, b ), font size, font allign flag, font offset ( x, y ), message layer offset ( x, y ), ok offset ( x, y ), image offset ( x, y )
 
---¼³¸í : (ÆùÆ® ¹× ÀÌ¹ÌÁö À§Ä¡ ÃÊ±âÈ­) 
+--ï¿½ï¿½ï¿½ï¿½ : (ï¿½ï¿½Æ® ï¿½ï¿½ ï¿½Ì¹ï¿½ï¿½ï¿½ ï¿½ï¿½Ä¡ ï¿½Ê±ï¿½È­) 
 TLDefaultSkin("SomaM.ttf",   0,  0,  0, 250,255,121, 160, COMP_TEXT_CENTER, 3, -190, -1, -210, 15,0, 63,200);
 
 TLSyncGroup();
@@ -13641,7 +13642,7 @@ TLSoundOnOff(0);
 TLPlayCinematic( "Tutorial_S1()" );
 TLCondition( ETL_CONDITION_TYPE_CINEMATIC_PLAY_FINISH, 0 );
 
--- Cinematic Á¾·á µÇ¾úÀ½À» 11015 TLÀ» ÅëÇØ TQS 100¹ø¿¡ Àü´Þ
+-- Cinematic ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½ï¿½ 11015 TLï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ TQS 100ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11015 );
 
@@ -13652,7 +13653,7 @@ TLDisableDialogMoveOption(1);
 TLSyncGroup();
 TLSoundOnOff(1);
 
---¸Þ½ÃÁö Ãâ·ÂÈÄ »èÁ¦ (µå·¡°ïº¼ ¿Â¶óÀÎ¿¡ ¿À½Å °ÍÀ» È¯¿µÇÕ´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½å·¡ï¿½ïº¼ ï¿½Â¶ï¿½ï¿½Î¿ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ È¯ï¿½ï¿½ï¿½Õ´Ï´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13660,7 +13661,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000001, 0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000001, 1.0);
@@ -13668,7 +13669,7 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000001, 1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·ÂÈÄ »èÁ¦ (ÀÌÁ¦ºÎÅÍ Æ©Åä¸®¾óÀ» ÅëÇØ µå·¡°ïº¼ ¿Â¶óÀÎÀÇÁ¶ÀÛ¹ý¿¡ ´ëÇØ¼­ ¾Ë¾Æº¾½Ã´Ù )
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Æ©ï¿½ä¸®ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½å·¡ï¿½ïº¼ ï¿½Â¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Û¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½Ë¾Æºï¿½ï¿½Ã´ï¿½ )
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13676,7 +13677,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000002, 0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000002, 1.0);
@@ -13687,7 +13688,7 @@ TLEnableSkip(0);
 --=================================================--
 
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (°ÔÀÓÈ­¸é - (1/7) )
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½ï¿½È­ï¿½ï¿½ - (1/7) )
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13695,7 +13696,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000007, 0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000007, 1.0);
@@ -13703,7 +13704,7 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000007, 1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (Ä³¸¯ÅÍ Á¤º¸Ã¢¿¡¼­´Â »ý¸í·Â, ±â·Â, ÀüÅõ·Â, ¼Ó¼º, ¸ÞÀÏ Á¤º¸¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½Ó¼ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13721,7 +13722,7 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000008, 1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (¹Ì´Ï¸Ê¿¡¼­´Â NPC³ª ¸÷, ÁöÇü µîÀÇ Á¤º¸¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½Ì´Ï¸Ê¿ï¿½ï¿½ï¿½ï¿½ï¿½ NPCï¿½ï¿½ ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13739,7 +13740,7 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000009, 1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (Ã¤ÆÃÃ¢¿¡¼­´Â ´Ù¸¥ À¯Àú, Ä£±¸, ÆÄÆ¼¸É¹öµé°ú ´ëÈ¯¸¦ ÇÒ ¼ö ÀÖ½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (Ã¤ï¿½ï¿½Ã¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½, Ä£ï¿½ï¿½, ï¿½ï¿½Æ¼ï¿½É¹ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½È¯ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13760,7 +13761,7 @@ TLEnableSkip(0);
 --=================================================--
 
 
---¸Þ½ÃÁö Ãâ·ÂÈÄ »èÁ¦ (Ä³¸¯ÅÍ ÀÌµ¿ (2/7))
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (Ä³ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ (2/7))
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13768,7 +13769,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000003, 0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000003, 1.0);
@@ -13776,7 +13777,7 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000003, 1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (±âº»Á¶ÀÛ¹ý : Ä«¸Þ¶ó Á¶ÀÛÇÏ±â ¸¶¿ì½º ÈÙÀ» ¹Ð¸é È­¸éÀÌ È®´ëµÇ°í, ¸¶¿ì½º ÈÙÀ» ´ç±â¸é È­¸éÀÌ Ãà¼ÒµË´Ï´Ù.)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ ï¿½Ð¸ï¿½ È­ï¿½ï¿½ï¿½ï¿½ È®ï¿½ï¿½Ç°ï¿½, ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ È­ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ÒµË´Ï´ï¿½.)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13792,40 +13793,40 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000048, 1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·ÂÇÏ±â (±âº»Á¶ÀÛ¹ý : Ä«¸Þ¶ó Á¶ÀÛÇÏ±â - ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ° ´©¸£°í ¿òÁ÷¿© º¸¼¼¿ä), ÀÌ¹ÌÁö Ãâ·ÂÇÏ±â (¸¶¿ì½º µå·¡±×)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ (ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½), ï¿½Ì¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ (ï¿½ï¿½ï¿½ì½º ï¿½å·¡ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000004, 0.5);
 TLGuideIMG_Show("Tu_Mouse_R_move.swf", 0.5, 0.5);
 
---¸¶¿ì½º µå·¡±× ÇÏ±â Àü±îÁö ´ë±â
+--ï¿½ï¿½ï¿½ì½º ï¿½å·¡ï¿½ï¿½ ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_MOUSE_DRAG, 0);
 
---¸Þ½ÃÁö »èÁ¦ÇÏ±â (±âº»Á¶ÀÛ¹ý : Ä«¸Þ¶ó Á¶ÀÛÇÏ±â - ¸¶¿ì½º ¿À¸¥ÂÊ ¹öÆ° ´©¸£°í ¿òÁ÷¿© º¸¼¼¿ä), ÀÌ¹ÌÁö »èÁ¦ÇÏ±â (¸¶¿ì½º µå·¡±×)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ (ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - ï¿½ï¿½ï¿½ì½º ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½), ï¿½Ì¹ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ (ï¿½ï¿½ï¿½ì½º ï¿½å·¡ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000004, 1.0);
 TLGuideIMG_Hide("Tu_Mouse_R_move.swf",1.0, 0.5);
 TLGuideIMGOk_Show(1);
 
---ÀÌµ¿ Ç®±â
+--ï¿½Ìµï¿½ Ç®ï¿½ï¿½
 TLSyncGroup();
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_MOVE);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MOVE);
 
---¸Þ½ÃÁö Ãâ·ÂÇÏ±â (±âº»Á¶ÀÛ¹ý : ÀÌµ¿ÇÏ±â - Ã¼Å©Æ÷ÀÎÆ®±îÁö Å°º¸µå³ª ¸¶¿ì½º Å¬¸¯À¸·Î ÀÌµ¿ÇØ º¸¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ (ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : ï¿½Ìµï¿½ï¿½Ï±ï¿½ - Ã¼Å©ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ Å°ï¿½ï¿½ï¿½å³ª ï¿½ï¿½ï¿½ì½º Å¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000005,0.5);
 TLGuideIMG_Show("Tu_W.A.S.D.swf",0.5, 0.5);
 
---Ã¼Å©Æ÷ÀÎÆ® »ý¼º
+--Ã¼Å©ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½
 TLCheckPoint(-97, 50, -156);
 
---Ã¼Å©Æ÷ÀÎÆ®¿¡ Ä«¸Þ¶ó ºñÃß±â
+--Ã¼Å©ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½ß±ï¿½
 TLPlayCamera_POS(ETL_CAMERA_TYPE_POSITION, -97, -156);
 
---Ã¼Å©Æ÷ÀÎÆ® ÀÌµ¿±îÁö ´ë±â
-TLCondition(ETL_CONDITION_TYPE_IN_CHECK_POINT, 0);      --Ã¼Å© : Ã¼Å©Æ÷ÀÎÆ® ±îÁö ÀÌµ¿Çß´ÂÁö
+--Ã¼Å©ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ìµï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+TLCondition(ETL_CONDITION_TYPE_IN_CHECK_POINT, 0);      --Ã¼Å© : Ã¼Å©ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ï¿½ß´ï¿½ï¿½ï¿½
 
---¸Þ½ÃÁö »èÁ¦ÇÏ±â (±âº»Á¶ÀÛ¹ý : ÀÌµ¿ÇÏ±â - Ã¼Å©Æ÷ÀÎÆ®±îÁö Å°º¸µå³ª ¸¶¿ì½º Å¬¸¯À¸·Î ÀÌµ¿ÇØ º¸¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ (ï¿½âº»ï¿½ï¿½ï¿½Û¹ï¿½ : ï¿½Ìµï¿½ï¿½Ï±ï¿½ - Ã¼Å©ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ Å°ï¿½ï¿½ï¿½å³ª ï¿½ï¿½ï¿½ì½º Å¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000005,1.0);
 TLGuideIMG_Hide("Tu_W.A.S.D.swf",1.0, 0.5);
@@ -13835,7 +13836,7 @@ TLGuideIMGOk_Show(1);
 --=================================================--
 
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (Äü½½·Ô¿¡ ½ºÅ³ µî·ÏÇÏ±â - (3/7))
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½ï¿½ï¿½Ô¿ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - (3/7))
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13843,7 +13844,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000015,0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000015,1.0);
@@ -13853,7 +13854,7 @@ TLEnableSkip(0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (¸ÞÀÎ¸Þ´º¿¡¼­´Â ´Ù¾çÇÑ Ã¢À» ¿­¾î Á¤º¸¸¦ º¼ ¼ö ÀÖ½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ù¾ï¿½ï¿½ï¿½ Ã¢ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13873,21 +13874,21 @@ TLEnableSkip(0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â (¸ÞÀÎ¸Þ´º¸¦ ¸¶¿ì½º·Î Å¬¸¯ÇØ ÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ì½ºï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000016,0.5);
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_MAIN_MENU, "Tu_MainMenu_button.swf", -54, -25);
--- Main Menu ¿­±â Ç®±â
+-- Main Menu ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPEN);
--- Main Menu ´Ý±â Àá±×±â
+-- Main Menu ï¿½Ý±ï¿½ ï¿½ï¿½×±ï¿½
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_MAINMENU_CLOSE);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_CLOSE);
---Main Menu ¿­±â±îÁö ´ë±â
+--Main Menu ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_MAINMENU_OPEN, 0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦ (¸ÞÀÎ¸Þ´º¸¦ ¸¶¿ì½º·Î Å¬¸¯ÇØ ÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ì½ºï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000016,1.0);
 TLUIIndicator_Hide(ETL_UI_INDICATOR_TYPE_MAIN_MENU);
@@ -13895,32 +13896,32 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â (½ºÅ³¸Þ´º¸¦ Å¬¸¯ÇØ¼­ ½ºÅ³Ã¢À» ¿­¾îÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ (ï¿½ï¿½Å³ï¿½Þ´ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000017,0.5);
-TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_MAIN_MENU_SKILL, "Tu_Main_menu.swf", -70, 0);
---Skill Menu ¿­±â Ç®±â
+TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_MAIN_MENU_SKILL, "Tu_Main_menu.swf", -164, -357);
+--Skill Menu ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_SKILL_OPEN);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_SKILL_OPEN);
---Skill Menu ´Ý±â Àá±×±â
+--Skill Menu ï¿½Ý±ï¿½ ï¿½ï¿½×±ï¿½
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SKILL_CLOSE);
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_SKILL_CLOSE);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_SKILL_CLOSE); 
---SkillÃ¢ ¿­¸± ¶§ ±îÁö ´ë±â
+--SkillÃ¢ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_SKILL_OPEN, 0);
 
 -----------------------------------------------
 
---Main Menu ´Ý±â Ç®±â
+--Main Menu ï¿½Ý±ï¿½ Ç®ï¿½ï¿½
 TLSyncGroup();
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ESC_MAINMENU_CLOSE);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_CLOSE);
--- Main Menu ¿­±â Àá±×±â
+-- Main Menu ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½×±ï¿½
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPEN);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦ (½ºÅ³¸Þ´º¸¦ Å¬¸¯ÇØ¼­ ½ºÅ³Ã¢À» ¿­¾îÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½Å³ï¿½Þ´ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000017,1.0);
 TLUIIndicator_Hide(ETL_UI_INDICATOR_TYPE_MAIN_MENU_SKILL);
@@ -13928,35 +13929,35 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â(½ºÅ³Ã¢ÀÇ ½ºÅ³¾ÆÀÌÄÜÀ» Å¬¸¯ÇÏ°í Äü½½·ÔÀ» Å¬¸¯ÇØ ½ºÅ³À» µî·ÏÇØ º¸¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½ï¿½Å³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000018,0.5);
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_SKILL_ICON, "Tu_Skill_Info.swf", 0, 0);
 
 TLSyncGroup();
-TLPause(1);
---Quickslot 1¹ø ¾È³» Ç¥½Ã
+TLPause(1.2);
+--Quickslot 1ï¿½ï¿½ ï¿½È³ï¿½ Ç¥ï¿½ï¿½
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_QUICK_SLOT_1, "Tu_Icon_Select.swf", 0, -64);
 
 -----------------------------------------------
 
 TLSyncGroup();
---Quickslot 1¹ø Skill ÇØÁ¦ Àá±×±â
+--Quickslot 1ï¿½ï¿½ Skill ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½×±ï¿½
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_UNREG);
---Quickslot 1¹ø Skill µî·Ï Ç®±â
+--Quickslot 1ï¿½ï¿½ Skill ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_REG);
---Quickslot 1¹ø ½ºÅ³ µî·Ï±îÁö ´ë±â
+--Quickslot 1ï¿½ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½Ï±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_QUICK_SLOT_1_REG_SKILL, 0);
 
 -----------------------------------------------
 
---Quickslot 1¹ø¿¡ Skill µî·Ï ¸øÇÏµµ·Ï ¸·±â
+--Quickslot 1ï¿½ï¿½ï¿½ï¿½ Skill ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ïµï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_REG);    
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦(½ºÅ³Ã¢ÀÇ ½ºÅ³¾ÆÀÌÄÜÀ» Å¬¸¯ÇÏ°í Äü½½·ÔÀ» Å¬¸¯ÇØ ½ºÅ³À» µî·ÏÇØ º¸¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½ï¿½Å³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000018,1.0);
 TLUIIndicator_Hide(ETL_UI_INDICATOR_TYPE_QUICK_SLOT_1);
@@ -13965,7 +13966,7 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ ( Äü½½·ÔÀº ½ºÅ³ÀÌ³ª ¾ÆÀÌÅÛÀ» µî·ÏÇØ¼­ ºü¸£°Ô »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ( ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å³ï¿½Ì³ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -13985,27 +13986,27 @@ TLEnableSkip(0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â(´Ý±â ¹öÆ°À» Å¬¸¯ÇØ¼­ ½ºÅ³Ã¢À» ´Ý¾ÆÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½Ý±ï¿½ ï¿½ï¿½Æ°ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½Ý¾ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000020,0.5);
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_SKILL_CLOSE_BTN, "Tu_X_Button.swf", 453, 3);
---Skill Ã¢ ´Ý±â ±â´É Ç®±â
+--Skill Ã¢ ï¿½Ý±ï¿½ ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_SKILL_CLOSE);
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ESC_SKILL_CLOSE);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_SKILL_WND_CLOSE_BTN);
---Skill Ã¢ ´Ý±â±îÁö ´ë±â
+--Skill Ã¢ ï¿½Ý±ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_SKILL_CLOSE, 0);
 
 -----------------------------------------------
 
---Skill Ã¢ ¿­±â ±â´É ¸·±â
+--Skill Ã¢ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_SKILL_OPEN);
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SKILL_OPEN);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦(´Ý±â ¹öÆ°À» Å¬¸¯ÇØ¼­ ½ºÅ³Ã¢À» ´Ý¾ÆÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½Ý±ï¿½ ï¿½ï¿½Æ°ï¿½ï¿½ Å¬ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½Å³Ã¢ï¿½ï¿½ ï¿½Ý¾ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000020,1.0);
 TLUIIndicator_Hide(ETL_UI_INDICATOR_TYPE_SKILL_CLOSE_BTN);
@@ -14015,7 +14016,7 @@ TLGuideIMGOk_Show(1);
 --=================================================--
 
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (Àåºñ ÀåÂø/ÇØÁ¦ - (4/7))
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½/ï¿½ï¿½ï¿½ï¿½ - (4/7))
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -14023,7 +14024,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000021,0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000021,1.0);
@@ -14033,21 +14034,21 @@ TLEnableSkip(0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â (¸ÞÀÎ¸Þ´º¸¦ ¸¶¿ì½º·Î Å¬¸¯ÇØ ÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ì½ºï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000022,0.5);
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_MAIN_MENU, "Tu_MainMenu_button.swf", -54, -25);
--- Main Menu ¿­±â Ç®±â
+-- Main Menu ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPEN);
--- Main Menu ´Ý±â Àá±×±â
+-- Main Menu ï¿½Ý±ï¿½ ï¿½ï¿½×±ï¿½
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_MAINMENU_CLOSE);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_CLOSE);
---Main Menu ¿­±â±îÁö ´ë±â
+--Main Menu ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_MAINMENU_OPEN, 0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦ (¸ÞÀÎ¸Þ´º¸¦ ¸¶¿ì½º·Î Å¬¸¯ÇØ ÁÖ¼¼¿ä)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½ï¿½Î¸Þ´ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ì½ºï¿½ï¿½ Å¬ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000022,1.0);
 TLUIIndicator_Hide(ETL_UI_INDICATOR_TYPE_MAIN_MENU);
@@ -14055,32 +14056,32 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â(»óÅÂº¸±âÃ¢¿­¾î¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000023,0.5);
-TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_MAIN_MENU_STATUS, "Tu_Main_menu.swf", -70, 0);
---Status Menu ¿­±â Ç®±â
+TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_MAIN_MENU_STATUS, "Tu_Main_menu.swf", -164, -415);
+--Status Menu ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_STATUS_OPEN);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_STATUS_OPEN);
---Status Menu ´Ý±â Àá±×±â
+--Status Menu ï¿½Ý±ï¿½ ï¿½ï¿½×±ï¿½
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_STATUS_CLOSE);
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_STATUS_CLOSE);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_STATUS_WND_CLOSE_BTN);
---StatusÃ¢ ¿­¸± ¶§ ±îÁö ´ë±â
+--StatusÃ¢ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_STATUS_OPEN, 0);
 
 -----------------------------------------------
 
---Main Menu ´Ý±â Ç®±â
+--Main Menu ï¿½Ý±ï¿½ Ç®ï¿½ï¿½
 TLSyncGroup();
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ESC_MAINMENU_CLOSE);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_CLOSE);
--- Main Menu ¿­±â Àá±×±â
+-- Main Menu ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½×±ï¿½
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPEN);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦(»óÅÂº¸±âÃ¢¿­¾î¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½Âºï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000023,1.0);
 TLUIIndicator_Hide(ETL_UI_INDICATOR_TYPE_MAIN_MENU_STATUS);
@@ -14088,7 +14089,7 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (Ä¸½¶Å°Æ®¿¡¼­´Â °¡Áö°í ÀÖ´Â ¼ÒÁöÇ°À» º¼ ¼ö ÀÖ½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö´ï¿½ ï¿½ï¿½ï¿½ï¿½Ç°ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -14108,25 +14109,25 @@ TLEnableSkip(0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â(Ä¸½¶Å¶ ¿­¾î¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(Ä¸ï¿½ï¿½Å¶ ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000024,0.5);
 TLGuideIMG_Show("Tu_capsule_kit_open.swf",0.5, 0.5);
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_CAPSULE_SLOT, "Tu_Icon_Select.swf", 0, -64);
---Ä¸½¶Å¶ ¿­±â Ç®±â
+--Ä¸ï¿½ï¿½Å¶ ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT_OPEN);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_CPASULE_SLOT_OPEN);
---Ä¸½¶Å¶ ´Ý±â Àá±×±â
+--Ä¸ï¿½ï¿½Å¶ ï¿½Ý±ï¿½ ï¿½ï¿½×±ï¿½
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_CAPSULE_KIT_CLOSE);
 TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_CAPSULE_KIT_CLOSE);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_CPASULE_SLOT_CLOSE);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_CLOSE_BTN);
---Ä¸½¶Å¶ ¿­¸± ¶§ ±îÁö ´ë±â
+--Ä¸ï¿½ï¿½Å¶ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_CAPSULEKIT_OPEN, 0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦(Ä¸½¶Å¶ ¿­¾î¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(Ä¸ï¿½ï¿½Å¶ ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000024,1.0);
 TLGuideIMG_Hide("Tu_capsule_kit_open.swf",1.0, 0.5);
@@ -14135,23 +14136,23 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â(½ºÄ«¿ìÆ®¸¦ Ä¸½¶Å°Æ®·Î ¿Å°Ü¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½Æ®ï¿½ï¿½ Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ ï¿½Å°Ü¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000025,0.5);
 TLGuideIMG_Show("Tu_scouter_icon_move.swf",0.5, 0.5);
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_STATUS_SCOUTER_SLOT, "Tu_Icon_Select.swf", 65, 227);
---StatusÃ¢ÀÇ ½ºÄ«¿ìÅÍ ½½·Ô Ç®±â
+--StatusÃ¢ï¿½ï¿½ ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_STATUS_WND_SCOUTER_SLOT);
---Capsulekit Slot¿¡ ¾ÆÀÌÅÛ ³Ö±â Ç®±â
+--Capsulekit Slotï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö±ï¿½ Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_DROP_DOWN);
---Capsulekit Slot¿¡¼­ ¾ÆÀÌÅÛ »©±â Àá±×±â
+--Capsulekit Slotï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½×±ï¿½
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_PICK_UP);
---½ºÄ«¿ìÅÍ ÀåÂø ÇØÁ¦±îÁö ´ë±â
+--ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_STATUS_SCOUTER_SLOT_UNREG, 0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦(½ºÄ«¿ìÆ®¸¦ Ä¸½¶Å°Æ®·Î ¿Å°Ü¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½Æ®ï¿½ï¿½ Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ ï¿½Å°Ü¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000025,1.0);
 TLGuideIMG_Hide("Tu_scouter_icon_move.swf",1.0, 0.5);
@@ -14160,20 +14161,20 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â(½ºÄ«¿ìÆ® ÀåÂøÇØ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000026,0.5);
 TLGuideIMG_Show("Tu_scouter_icon_install.swf",0.5, 0.5);
---Capsulekit Slot¿¡ ¾ÆÀÌÅÛ ³Ö±â Àá±×±â
+--Capsulekit Slotï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö±ï¿½ ï¿½ï¿½×±ï¿½
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_DROP_DOWN);
---Capsulekit Slot¿¡¼­ ¾ÆÀÌÅÛ »©±â Ç®±â
+--Capsulekit Slotï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_SLOTS_PICK_UP);
---½ºÄ«¿ìÆ® ÀåÂø±îÁö ´ë±â
+--ï¿½ï¿½Ä«ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_STATUS_SCOUTER_SLOT_REG, 0);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö »èÁ¦(½ºÄ«¿ìÆ® ÀåÂøÇØ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000026,1.0);
 TLGuideIMG_Hide("Tu_scouter_icon_install.swf",1.0, 0.5);
@@ -14181,7 +14182,7 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦ (½ºÄ«¿ìÅÍ´Â ¿©·¯°¡Áö ÆÄÃ÷¸¦ ³Ö¾î ´Ù¾çÇÑ ±â´ÉÀ» »ç¿ëÇÒ ¼ö ÀÖ½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ (ï¿½ï¿½Ä«ï¿½ï¿½ï¿½Í´ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¾ï¿½ ï¿½Ù¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½)
 --TLSyncGroup();
 --TLEnableSkip(1);
 
@@ -14201,48 +14202,48 @@ TLGuideIMGOk_Show(1);
 
 -----------------------------------------------
 
---¸Þ½ÃÁö Ãâ·Â(Ã¢´Ù´Ý¾Æ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(Ã¢ï¿½Ù´Ý¾Æ¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000027,0.5);
 
---»óÅÂÁ¤º¸Ã¢ ´Ý±â ¹öÆ° Ç®±â, Ä¸½¶Å°Æ® ´Ý±â ¹öÆ° Ç®±â
+--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¢ ï¿½Ý±ï¿½ ï¿½ï¿½Æ° Ç®ï¿½ï¿½, Ä¸ï¿½ï¿½Å°Æ® ï¿½Ý±ï¿½ ï¿½ï¿½Æ° Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_STATUS_WND_CLOSE_BTN);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_CLOSE_BTN);
 
---»óÅÂÁ¤º¸Ã¢°ú Ä¸½¶Å°Æ® ´Ý±â±îÁö ´ë±â
+--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ Ä¸ï¿½ï¿½Å°Æ® ï¿½Ý±ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_STATUS_CLOSE, 0);
 TLCondition(ETL_CONDITION_TYPE_CAPSULEKIT_CLOSE, 0);
 
---¸Þ½ÃÁö »èÁ¦(Ã¢´Ù´Ý¾Æ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(Ã¢ï¿½Ù´Ý¾Æ¶ï¿½)
 TLSyncGroup();
-TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000027,1.0);   --¼³¸í : (°¨Ãß±â) »ó¼¼Á¤º¸Ã¢°ú Ä¸½¶Å°Æ®¸¦ ¸ðµÎ ´Ý¾Æ ÁÖ¼¼¿ä
+TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000027,1.0);   --ï¿½ï¿½ï¿½ï¿½ : (ï¿½ï¿½ï¿½ß±ï¿½) ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã¢ï¿½ï¿½ Ä¸ï¿½ï¿½Å°Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ý¾ï¿½ ï¿½Ö¼ï¿½ï¿½ï¿½
 TLGuideIMGOk_Show(1);
 
---¸ðµç UI, ¸ðµç Å°º¸µå ÄÁÆ®·Ñ Ç®°í, ÈÞÁöÅë ¸·±â
+--ï¿½ï¿½ï¿½ UI, ï¿½ï¿½ï¿½ Å°ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Æ®ï¿½ï¿½ Ç®ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_ALL);
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ALL);
 TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_TRASH);
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_CHANGE);               --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_REG);                --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_UNREG);              --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_2_LAST_REG);           --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_2_LAST_UNREG);         --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_STATUS_WND_SCOUTER_SLOT);         --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_SCOUTER_MODE_POWERLEVEL);         --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_SCOUTER_MODE_CLOSE_BTN);          --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPTION_OPEN);            --¸·±â : 
-TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPTION_CLOSE);--¸·±â : 
-TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_ON);              --¸·±â : 
-TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_OFF);              --¸·±â : 
-TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_SCOUTER_MODE_CLOSE);    --¸·±â : 
-TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_OPTION);                    --¸·±â : 
-TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_MINIMAP);                   --¸·±â : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_CHANGE);               --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_REG);                --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_UNREG);              --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_2_LAST_REG);           --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_2_LAST_UNREG);         --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_STATUS_WND_SCOUTER_SLOT);         --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_SCOUTER_MODE_POWERLEVEL);         --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_SCOUTER_MODE_CLOSE_BTN);          --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPTION_OPEN);            --ï¿½ï¿½ï¿½ï¿½ : 
+TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPTION_CLOSE);--ï¿½ï¿½ï¿½ï¿½ : 
+TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_ON);              --ï¿½ï¿½ï¿½ï¿½ : 
+TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_OFF);              --ï¿½ï¿½ï¿½ï¿½ : 
+TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_SCOUTER_MODE_CLOSE);    --ï¿½ï¿½ï¿½ï¿½ : 
+TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_OPTION);                    --ï¿½ï¿½ï¿½ï¿½ : 
+TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_MINIMAP);                   --ï¿½ï¿½ï¿½ï¿½ : 
 TLDisableDialogMoveOption(0);
 
 --=================================================--
 
---¸Þ½ÃÁö Ãâ·Â  ÈÄ »èÁ¦(½ºÄ«¿ìÅÍ »ç¿ëÇÏ±â - (5/7))
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½  ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ - (5/7))
 --TLSyncGroup();
 --TLEnableSkip(1);
 
@@ -14258,68 +14259,68 @@ TLDisableDialogMoveOption(0);
 --TLSyncGroup();
 --TLEnableSkip(0);
 
---°ø°Ý ¸øÇÏ°Ô ¸·±â
+--ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ï°ï¿½ ï¿½ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLAttackLock(ETL_ATTACK_TYPE_ALL);
 
---Äù½ºÆ®¸¦ ÅëÇØ TQS¿¡ ¸ó½ºÅÍ ºÎ¸£°Ô ½ÃÅ°±â
+--ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ TQSï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Î¸ï¿½ï¿½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11000 );   
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11000);
 
---¸Þ½ÃÁö Ãâ·Â(¸÷ ¼±ÅÃÇØ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000031, 0.5);
 TLGuideIMG_Show("Tu_Mob_select.swf",0.5, 0.5);
 
---¸÷¿¡ Ä«¸Þ¶ó µéÀÌ´ï
+--ï¿½ï¿½ï¿½ï¿½ Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½
 TLPlayCamera_TBLIDX( ETL_CAMERA_TYPE_MOB, 1411104 );
 
---¸÷ ¼±ÅÃ±îÁö ´ë±â
+--ï¿½ï¿½ ï¿½ï¿½ï¿½Ã±ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_MOB_TARGET, 0);
 
---¸Þ½ÃÁö »èÁ¦(¸÷ ¼±ÅÃÇØ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000031, 1.0);
 TLGuideIMG_Hide("Tu_Mob_select.swf",1.0, 0.5);
 TLGuideIMGOk_Show(1);
 
---¸Þ½ÃÁöÃâ·Â(½ºÄ«¿ìÅÍÄÑ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¶ï¿½)
 --TLSyncGroup();
 --TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000038,0.5);
 --TLGuideIMG_Show("Tu_Keyboard_T.swf",0.5, 0.5);
 
---Scouter Keyboard Control Ç®±â, Scouter Mode ´Ý±â ¸·±â
+--Scouter Keyboard Control Ç®ï¿½ï¿½, Scouter Mode ï¿½Ý±ï¿½ ï¿½ï¿½ï¿½ï¿½
 --TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_ON);
 --TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_SCOUTER_MODE_CLOSE);
 --TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_OFF);
 --TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_ESC_SCOUTER_CLOSE);
 --TLMouseInputLock(ETL_MOUSE_INPUT_TYPE_SCOUTER_MODE_CLOSE_BTN);
 
---½ºÄ«¿ìÅÍ Å³¶§±îÁö ´ë±â
+--ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ Å³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 --TLCondition(ETL_CONDITION_TYPE_SCOUTER_USE, 0);
 
---¸Þ½ÃÁö»èÁ¦(½ºÄ«¿ìÅÍÄÑ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¶ï¿½)
 --TLSyncGroup();
 --TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000038,1.0);
 --TLGuideIMG_Hide("Tu_Keyboard_T.swf",1.0, 0.5);
 --TLGuideIMGOk_Show(1);
---½ºÄ«¿ìÅÍ ²ô±â ¹æÁö
+--ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 --TLKeyboardInputLock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_OFF);
 
-	--¸Þ½ÃÁöÃâ·Â(ÀüÅõ·Â ÃøÁ¤ÇØ¶ó)
+	--ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 	--TLSyncGroup();
 	--TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000039,0.5);
 
---ÀüÅõ·Â ÃøÁ¤ Ç®±â
+--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 --TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_SCOUTER_MODE_POWERLEVEL); 
 
-	--ÀüÅõ·Â ÃøÁ¤ Àü ±îÁö ´ë±â
+	--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 	--TLCondition(ETL_CONDITION_TYPE_SCOUTER_POWERLEVEL, 0);
 
-	--¸Þ½ÃÁö»èÁ¦(ÀüÅõ·Â ÃøÁ¤ÇØ¶ó)
+	--ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 	--TLSyncGroup();
 	--TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000039,1.0);
 	--TLGuideIMGOk_Show(1);
@@ -14327,31 +14328,31 @@ TLGuideIMGOk_Show(1);
 --TLSyncGroup();
 --TLPause(0.5);
 
---¸Þ½ÃÁö Ãâ·Â(ÄáÀç¹è¸ÇÀÇ Á¤º¸°¡ ¾÷µ¥ÀÌÆ® µÇ¾ú½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½)
 --TLSyncGroup();
 --TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000040,0.5);
 
 --TLSyncGroup();
 --TLPause(1);
 
---¸Þ½ÃÁö »èÁ¦(ÄáÀç¹è¸ÇÀÇ Á¤º¸°¡ ¾÷µ¥ÀÌÆ® µÇ¾ú½À´Ï´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ® ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½)
 --TLSyncGroup();
 --TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000040,1.0);
 
---¸Þ½ÃÁöÃâ·Â(½ºÄ«¿ìÅÍ ´Ý¾Æ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½Ý¾Æ¶ï¿½)
 --TLSyncGroup();
 --TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000041,0.5);
 
---½ºÄ«¿ìÅÍ ¸ðµå ´Ý±â Ç®±â
+--ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ý±ï¿½ Ç®ï¿½ï¿½
 --TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ESC_SCOUTER_MODE_CLOSE);
 --TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ESC_SCOUTER_CLOSE);
 --TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_SCOUTER_MODE_OFF);
 --TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_SCOUTER_MODE_CLOSE_BTN);
 
---½ºÄ«¿ìÅÍ ´Ý±â Àü ±îÁö ´ë±â
+--ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½Ý±ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 --TLCondition(ETL_CONDITION_TYPE_SCOUTER_CLOSE, 0);
 
---¸Þ½ÃÁö»èÁ¦(½ºÄ«¿ìÅÍ ´Ý¾Æ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½Ý¾Æ¶ï¿½)
 --TLSyncGroup();
 --TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000041,1.0);
 --TLGuideIMGOk_Show(1);
@@ -14360,7 +14361,7 @@ TLGuideIMGOk_Show(1);
 --=================================================--
 
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦(ÀüÅõÇÏ±â(6/7))
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½(6/7))
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -14368,7 +14369,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000030,0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000030,1.0);
@@ -14376,47 +14377,47 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000030,1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·Â(ÀÏ¹Ý°ø°ÝÇØ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½Ï¹Ý°ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000032, 0.5);
 TLGuideIMG_Show("Tu_Mob_attack.swf",0.5, 0.5);
 
---ÀÏ¹Ý°ø°Ý Ç®±â
+--ï¿½Ï¹Ý°ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLAttackUnlock(ETL_ATTACK_TYPE_NORMAL_ATTACK);
 
---ÀÏ¹Ý°ø°ÝÀ¸·Î ¸÷Àâ±â Àü±îÁö ´ë±â
+--ï¿½Ï¹Ý°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_MOB_NORMAL_ATTACK, 0);
 
---Äù½ºÆ®¿¡ ¸÷ÀâÀ½ ¾Ë¸²
+--ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ë¸ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11001 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11001);
 
---¸Þ½ÃÁö »èÁ¦(ÀÏ¹Ý°ø°ÝÇØ¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½Ï¹Ý°ï¿½ï¿½ï¿½ï¿½Ø¶ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000032, 1.0);
 TLGuideIMG_Hide("Tu_Mob_attack.swf",1.0, 0.5);
 TLGuideIMGOk_Show(1);
 
---Äù½ºÆ®¸¦ ÅëÇØ TQS¿¡ ¸ó½ºÅÍ ºÎ¸£°Ô ½ÃÅ°±â
+--ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ TQSï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Î¸ï¿½ï¿½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11002 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11002);
 
---¸ó½ºÅÍ¿¡°Ô Ä«¸Þ¶ó µéÀÌ´ë±â
+--ï¿½ï¿½ï¿½Í¿ï¿½ï¿½ï¿½ Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½ï¿½
 TLSyncGroup();
 TLPlayCamera_TBLIDX( ETL_CAMERA_TYPE_MOB, 4911110 );
 
---¸Þ½ÃÁö Ãâ·Â(½ºÅ³½áÁ×¿©¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(ï¿½ï¿½Å³ï¿½ï¿½ï¿½×¿ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000034, 0.5);
 TLUIIndicator_Show(ETL_UI_INDICATOR_TYPE_QUICK_SLOT_1, "Tu_Icon_Select.swf", 0, -64);
 
---Skill Menu ¿­±â ¹× ½ºÅ³ µî·Ï Ç®±â
+--Skill Menu ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½Å³ ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_OPEN);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_CLOSE);
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ESC_MAINMENU_CLOSE);
@@ -14427,58 +14428,58 @@ TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ESC_SKILL_CLOSE);
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_MAINMENU_SKILL_CLOSE); 
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_QUICK_SLOT_1_REG);
 
---½ºÅ³°ø°Ý Ç®±â
+--ï¿½ï¿½Å³ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLAttackUnlock(ETL_ATTACK_TYPE_SKILL_ATTACK);
 
---½ºÅ³·Î Á×ÀÏ¶§±îÁö ´ë±â
+--ï¿½ï¿½Å³ï¿½ï¿½ ï¿½ï¿½ï¿½Ï¶ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLCondition(ETL_CONDITION_TYPE_MOB_SKILL_ATTACK, 0);
 
---Äù½ºÆ® ÅëÇØ TQS¿¡ ¸ó½ºÅÍ »èÁ¦ ½ÃÅ°±â
+--ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ TQSï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11003 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11003);
 
---¸Þ½ÃÁö »èÁ¦(½ºÅ³½áÁ×¿©¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½Å³ï¿½ï¿½ï¿½×¿ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000034,1.0);
 TLUIIndicator_Hide(ETL_UI_INDICATOR_TYPE_QUICK_SLOT_1);
 TLGuideIMGOk_Show(1);
 
---Äù½ºÆ®¸¦ ÅëÇØ TQS¿¡ ¸ó½ºÅÍ ºÎ¸£°Ô ½ÃÅ°±â
+--ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ TQSï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Î¸ï¿½ï¿½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11004 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11004);
 
---¸ó½ºÅÍ¿¡ Ä«¸Þ¶ó µéÀÌ´ë±â
+--ï¿½ï¿½ï¿½Í¿ï¿½ Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½ï¿½
 TLSyncGroup();
 TLPlayCamera_TBLIDX( ETL_CAMERA_TYPE_MOB, 7211113 );
 
---¸Þ½ÃÁö Ãâ·Â(Ä¸½¶ ÁÖ¿ö¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½(Ä¸ï¿½ï¿½ ï¿½Ö¿ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000035,0.5);
 TLGuideIMG_Show("Tu_Item_pickup.swf",0.5, 0.5);
 
---Ä¸½¶ ÁÝ±â±îÁö ´ë±â
-TLCondition(ETL_CONDITION_TYPE_LOOT_ITEM, 0);   --Ã¼Å© : Item ÁÖ¿ü´ÂÁö
+--Ä¸ï¿½ï¿½ ï¿½Ý±ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
+TLCondition(ETL_CONDITION_TYPE_LOOT_ITEM, 0);   --Ã¼Å© : Item ï¿½Ö¿ï¿½ï¿½ï¿½ï¿½ï¿½
 
---¸Þ½ÃÁö »èÁ¦(Ä¸½¶ ÁÖ¿ö¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(Ä¸ï¿½ï¿½ ï¿½Ö¿ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000035,1.0);
 TLGuideIMG_Hide("Tu_Item_pickup.swf",1.0, 0.5);
 TLGuideIMGOk_Show(1);
 
---Äù½ºÆ® ÅëÇØ TQS¿¡ ¸ó½ºÅÍ »èÁ¦ ½ÃÅ°±â
+--ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½ï¿½ï¿½ TQSï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Å°ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11005 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11005);
 
---ÈÞÁöÅë »ç¿ë Ç®±â
+--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 TLSyncGroup();
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_TRASH);
 
@@ -14486,7 +14487,7 @@ TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_CPASULE_KIT_WND_TRASH);
 --=================================================--
 
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦(µµ¿ò¸»(7/7))
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½(7/7))
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -14494,7 +14495,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000044,0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000044,1.0);
@@ -14502,7 +14503,7 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000044,1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·ÂÈÄ »èÁ¦(³ª¸ÓÁø µµ¿ò¸»¼­ ¹è¿ö¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ò¸»¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -14510,7 +14511,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000045,0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000045,1.0);
@@ -14518,7 +14519,7 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000045,1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦(µµ¿ò¸»Àº ÀÌÄÉº¸¸éµÈ´Ù)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Éºï¿½ï¿½ï¿½È´ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -14527,7 +14528,7 @@ TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000046,0.5);
 TLGuideIMG_Show("Tu_Keyboard_F1.swf",0.5, 0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000046,1.0);
@@ -14536,7 +14537,7 @@ TLGuideIMG_Hide("Tu_Keyboard_F1.swf",1.0, 0.5);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸Þ½ÃÁö Ãâ·Â ÈÄ »èÁ¦(ÀÌÁ¦ Á» °¡¶ó)
+--ï¿½Þ½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½(ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½)
 TLSyncGroup();
 TLEnableSkip(1);
 
@@ -14544,7 +14545,7 @@ TLSyncGroup();
 TLGuideMsg_Show(DST_TUTORIAL_MESSAGE_1000047,0.5);
 
 TLSyncGroup();
-TLPause(1);
+TLPause(1.2);
 
 TLSyncGroup();
 TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000047,1.0);
@@ -14552,93 +14553,93 @@ TLGuideMsg_Hide(DST_TUTORIAL_MESSAGE_1000047,1.0);
 TLSyncGroup();
 TLEnableSkip(0);
 
---¸¶¿ì½º,Å°º¸µå,°ø°Ý Ç®±â
+--ï¿½ï¿½ï¿½ì½º,Å°ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ Ç®ï¿½ï¿½
 
 TLSyncGroup();
 TLMouseInputUnlock(ETL_MOUSE_INPUT_TYPE_ALL);
 TLKeyboardInputUnlock(ETL_KEYBOARD_INPUT_TYPE_ALL);
 TLAttackUnlock(ETL_ATTACK_TYPE_ALL);
 
---°ÅºÏÀÌ ½ºÆùÇÏ±â À§ÇØ Äù½ºÆ®¿¡ ÀÌº¥Æ® ³¯¸®°í Äù½ºÆ®¿¡¼­ Tqs·Î ÀÌº¥Æ® ³¯¸®±â
+--ï¿½Åºï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½ï¿½ï¿½ Tqsï¿½ï¿½ ï¿½Ìºï¿½Æ® ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11006 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11006);
 
---°ÅºÏÀÌÄù ¹ßµ¿
+--ï¿½Åºï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½
 TLSyncGroup();
 TLExcuteQuest( 11007 );
 
---°ÅºÏÀÌÇÑÅ× Ä«¸Þ¶ó µéÀÌ´ë±â
+--ï¿½Åºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ Ä«ï¿½Þ¶ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½ï¿½
 TLSyncGroup();
 TLPlayCamera_TBLIDX( ETL_CAMERA_TYPE_NPC, 7611104 );
 
---°ÅºÏÀÌÄù Á¾·á±îÁö ´ë±â
+--ï¿½Åºï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11007);
 
---°ÅºÏÀÌÁ¦°ÅÄù ¹ßµ¿
+--ï¿½Åºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½
 TLSyncGroup();
 TLExcuteQuest( 11014 );
 
---½Ã³×¸¶Æ½ ¹ßµ¿
+--ï¿½Ã³×¸ï¿½Æ½ ï¿½ßµï¿½
 TLSyncGroup();
 TLPlayCinematic( "Tutorial_S2()" );
 
---½Ã³×¸¶Æ½ Á¾·á±îÁö ´ë±â
+--ï¿½Ã³×¸ï¿½Æ½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLCondition( ETL_CONDITION_TYPE_CINEMATIC_PLAY_FINISH );
 
---Æ®·©Å©½º ½ºÆù½ÃÅ°±â
+--Æ®ï¿½ï¿½Å©ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Å°ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11008 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11008);
 
---Æ®·©Å©½ºÄù ¹ßµ¿
+--Æ®ï¿½ï¿½Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ßµï¿½
 TLSyncGroup();
 TLExcuteQuest( 11009 );
 
---Æ®·©Å©½ºÄù Á¾·á±îÁö ´ë±â
+--Æ®ï¿½ï¿½Å©ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11009);
 
---Å¸ÀÓ¸Ó½Å µîÀå ½Ã³×¸¶Æ½ ¹ßµ¿
+--Å¸ï¿½Ó¸Ó½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ã³×¸ï¿½Æ½ ï¿½ßµï¿½
 TLSyncGroup();
 TLPlayCinematic( "Tutorial_S3()" );
 
 TLSyncGroup();
 TLCondition( ETL_CONDITION_TYPE_CINEMATIC_PLAY_FINISH );
 
---Å¸ÀÓ¸Ó½Å º¸ÀÌ°Ô ÇÏ°í, È£ÇÁ ¼ÒÈ¯
+--Å¸ï¿½Ó¸Ó½ï¿½ ï¿½ï¿½ï¿½Ì°ï¿½ ï¿½Ï°ï¿½, È£ï¿½ï¿½ ï¿½ï¿½È¯
 TLSyncGroup();
 TLExcuteQuest( 11010 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11010);
 
---Æ®·©Å©½º ÀÌµ¿ ½ÃÅ°±â
+--Æ®ï¿½ï¿½Å©ï¿½ï¿½ ï¿½Ìµï¿½ ï¿½ï¿½Å°ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11011 );
 
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11011);
 
--- GBT-Hope Äù ¹ßµ¿
+-- GBT-Hope ï¿½ï¿½ ï¿½ßµï¿½
 TLSyncGroup();
 TLExcuteQuest( 11012 );
 
---È£ÇÁÄù Á¾·á±îÁö ´ë±â
+--È£ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11012);
 
--- Æ®·©Å©½º/GBT-hope »èÁ¦
+-- Æ®ï¿½ï¿½Å©ï¿½ï¿½/GBT-hope ï¿½ï¿½ï¿½ï¿½
 TLSyncGroup();
 TLExcuteQuest( 11013 );
 
--- ¹Ù·Î ³¡³»Áö ¸»°í ´ë±âÁ» ÇØ¶ó
+-- ï¿½Ù·ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ø¶ï¿½
 TLSyncGroup();
 TLCondition(ETL_CONDITION_TYPE_QUEST_FINISH, 11013);<?xml version="1.0"?>
 
